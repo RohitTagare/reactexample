@@ -1,7 +1,3 @@
-// Main Js: Index template 
-// Used to render the application in HTML Page
-
-// Import Statements
 import React from 'react';
 import ReactDOM from 'react-dom';
 import SearchList from "./layouts/SearchList.js";
