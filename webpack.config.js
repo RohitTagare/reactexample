@@ -6,7 +6,7 @@ var APP_DIR = path.resolve(__dirname, '');
 
 //configuration for webpack server and deployment
 var config = {
-  entry: APP_DIR + '/js/main.js',
+  entry: APP_DIR + '/js/main.tsx',
   output: {
     path: BUILD_DIR + "/js",
     filename: 'bundle.js'
